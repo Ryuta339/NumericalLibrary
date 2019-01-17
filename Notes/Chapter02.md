@@ -3,14 +3,15 @@
 ## 始めに
 
 連立１次方程式とは、次のようなものである。
-
 ```math
-A \boldsymbol{x} = \boldsymbol{b}
+\begin{eqnarray}
+	A \boldsymbol{x} = \boldsymbol{b}
+\end{eqnarray}
 ```
 
 ここで、
 
 $$
-\alpha
+	\alpha_a
 $$
 
